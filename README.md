@@ -1,5 +1,6 @@
 <h1 align="center"><img src="./assets/logo.gif" width="30px"> Discord Music Bot <img src="./assets/logo.gif" width="30px"></h1>
 <p align="center">Thanks for 25k Views with 500 subs!</p>
+[<img src="https://open.autocode.com/static/images/open.svg?" width="192">](https://open.autocode.com/)
 
 ## ✨Latest Updates
 
